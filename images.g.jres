@@ -1,0 +1,27 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPANAAAAAAAAD/AAAAAA7t3//wAAAADu3/8PAAAAAN7d8QEAAAAA7t8fDwAAAADu3f//AAAAAAAAD/AAAAAAAADwDQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Young child Joe"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACANAAAAAAAAAiAAAAAAVd0iIgAAAABV2FICAAAAANXdRQUAAAAAVdhSAgAAAABV3SIiAAAAAAAAAiAAAAAAAAAgDQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Young child Benny"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJANAAAAAAAACZAAAAAAIt0ZmQAAAAAi1xEJAAAAANLdEQkAAAAAItcZCQAAAAAi3ZmZAAAAAAAACZAAAAAAAACQDQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Young child Kai"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgDQAAAAAAAAdgAAAAAP/ddnYAAAAA/9pnBwAAAADf3XYGAAAAAP/aZwcAAAAA/912dgAAAAAAAAdgAAAAAAAAYA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Young child Jay"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
